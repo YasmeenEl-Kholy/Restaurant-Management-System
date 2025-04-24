@@ -1,0 +1,13 @@
+D:\Users\smart shop\source\repos\NewResturantManagementSystem\NewResturantManagementSystem\bin\Debug\NewResturantManagementSystem.exe.config
+D:\Users\smart shop\source\repos\NewResturantManagementSystem\NewResturantManagementSystem\bin\Debug\NewResturantManagementSystem.exe
+D:\Users\smart shop\source\repos\NewResturantManagementSystem\NewResturantManagementSystem\bin\Debug\NewResturantManagementSystem.pdb
+D:\Users\smart shop\source\repos\NewResturantManagementSystem\NewResturantManagementSystem\obj\Debug\NewResturantManagementSystem.csproj.AssemblyReference.cache
+D:\Users\smart shop\source\repos\NewResturantManagementSystem\NewResturantManagementSystem\obj\Debug\NewResturantManagementSystem.Properties.Resources.resources
+D:\Users\smart shop\source\repos\NewResturantManagementSystem\NewResturantManagementSystem\obj\Debug\NewResturantManagementSystem.csproj.GenerateResource.cache
+D:\Users\smart shop\source\repos\NewResturantManagementSystem\NewResturantManagementSystem\obj\Debug\NewResturantManagementSystem.csproj.CoreCompileInputs.cache
+D:\Users\smart shop\source\repos\NewResturantManagementSystem\NewResturantManagementSystem\obj\Debug\NewResturantManagementSystem.exe
+D:\Users\smart shop\source\repos\NewResturantManagementSystem\NewResturantManagementSystem\obj\Debug\NewResturantManagementSystem.pdb
+D:\Users\smart shop\source\repos\NewResturantManagementSystem\NewResturantManagementSystem\obj\Debug\NewResturantManagementSystem.AdminAddProducts.resources
+D:\Users\smart shop\source\repos\NewResturantManagementSystem\NewResturantManagementSystem\obj\Debug\NewResturantManagementSystem.AdminDashBoard.resources
+D:\Users\smart shop\source\repos\NewResturantManagementSystem\NewResturantManagementSystem\obj\Debug\NewResturantManagementSystem.AdminForm.resources
+D:\Users\smart shop\source\repos\NewResturantManagementSystem\NewResturantManagementSystem\obj\Debug\NewResturantManagementSystem.Form1.resources
